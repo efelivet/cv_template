@@ -1,0 +1,86 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  background-color: #ddd;
+}
+#big_wrapper{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+#wrap-1{  
+ 
+ background-color:snow;
+ position:relative;
+ text-align: center;
+flex:30%;
+  }
+  .bottom-left{
+    position:absolute;
+   bottom: 15px;
+  left: 120px;
+  }
+  .container{
+    width:180px;
+    background-color: #ddd;
+    
+  }
+  .skills{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color:white
+  }
+  .html{
+    width:150px;background-color: #04AA6D;
+  }
+  .css{
+    width:120px;background-color: #2196F3; 
+  }
+  .js{
+    width:100px;background-color: #f44336;
+  }
+  .php{
+    width:110px;background-color:#c8e2f8;
+  }
+  .sql{
+    width:120px;background-color: #2196F3; 
+  }
+  .english{
+    width:115px;background-color:yellow; 
+  } 
+
+  .container_2{
+    width:10%;
+    background-color: green;
+    
+  } 
+  .till{
+    text-align: right;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    color:white;
+    
+  }
+  .current{
+    width:10%;background-color: green;
+    margin-left: 9px;
+  }
+
+#wrap-2{
+  background-color: white;
+  height: 500px;
+  display: flex;
+ margin-left: 4px;
+ flex:70%;
+}
+#dev{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+#fe{
+  display: flex;
+}
