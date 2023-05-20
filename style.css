@@ -20,11 +20,11 @@ flex:30%;
   }
   .bottom-left{
     position:absolute;
-   bottom: 15px;
-  left: 120px;
+   bottom: 10px;
+  left: 50px;
   }
   .container{
-    width:180px;
+    width:50%;
     background-color: #ddd;
     
   }
@@ -35,22 +35,22 @@ flex:30%;
     color:white
   }
   .html{
-    width:150px;background-color: #04AA6D;
+    width:80%;background-color: #04AA6D;
   }
   .css{
-    width:120px;background-color: #2196F3; 
+    width:70%;background-color: #2196F3; 
   }
   .js{
-    width:100px;background-color: #f44336;
+    width:60%;background-color: #f44336;
   }
   .php{
-    width:110px;background-color:#c8e2f8;
+    width:65%;background-color:#c8e2f8;
   }
   .sql{
-    width:120px;background-color: #2196F3; 
+    width:70px;background-color: #2196F3; 
   }
   .english{
-    width:115px;background-color:yellow; 
+    width:67%;background-color:yellow; 
   } 
 
   .container_2{
