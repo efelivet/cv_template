@@ -73,9 +73,16 @@ footer{
   display:flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
+  margin-top: 15px;
 }
 #foot{
   background-color:teal;
   height:60px;
+  
+}
+footer a{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
 }
