@@ -21,36 +21,35 @@ flex:30%;
   .bottom-left{
     position:absolute;
    bottom: 10px;
-  left: 70px;
+  left: 60px;
   }
   .container{
-    width:50%;
+    width:90%;
     background-color: #ddd;
-    
+    border-radius: 10px;
   }
   .skills{
     text-align: right;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    border-radius: 10px;
     color:white
   }
   .html{
-    width:80%;background-color: #04AA6D;
+    width:90%;background-color: #04AA6D;
   }
   .css{
-    width:70%;background-color: #2196F3; 
+    width:80%;background-color: #04AA6D; 
   }
   .js{
-    width:60%;background-color: #f44336;
+    width:70%;background-color: #04AA6D;
   }
   .php{
-    width:65%;background-color:#c8e2f8;
+    width:75%;background-color:#04AA6D;
   }
   .sql{
-    width:70%;background-color: #2196F3; 
+    width:80%;background-color: #04AA6D; 
   }
   .english{
-    width:67%;background-color:yellow; 
+    width:70%;background-color:#04AA6D; 
   } 
 
  
@@ -68,5 +67,15 @@ flex:30%;
   display: flex;
 }
 #tool{
-  padding:10px;
+  padding:5px;
+}
+footer{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+#foot{
+  background-color:teal;
+  height:60px;
 }
