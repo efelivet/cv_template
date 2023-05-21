@@ -78,7 +78,7 @@ footer{
 #foot{
   background-color:teal;
   height:60px;
-  
+  width: 100%;
 }
 footer a{
   display:flex;
